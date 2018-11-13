@@ -10,6 +10,6 @@
 	<body>
 	<c:import url="menuBiblioteca.jsp"></c:import>
 	
-		<h1>Bem vindo(a) a Biblioteca Spring! </h1>
+		<h1>Bem-vindo(a) a Biblioteca Spring! </h1>
 	</body>
 </html>
