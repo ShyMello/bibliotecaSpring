@@ -5,7 +5,7 @@
     <ul>
     
     <li><a href="/bibliotecaspring/">Home</a></li>
-    
+    <li><a href="/bibliotecaspring/alunos/formAluno/">Cadastrando o aluno</a>
     
     </ul>
     </nav>
